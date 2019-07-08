@@ -2,10 +2,15 @@
   "name": "vuejs-loading-plugin",
   "version": "1.0.0",
   "description": "Simple loading screen plugin for your Vue application",
+  "github":"https://github.com/noxludio/vuejs-loading-plugin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Atte Vähäkangas",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noxludio/vuejs-loading-plugin/issues"
+  },
+  "homepage": "https://github.com/noxludio/vuejs-loading-plugin"
 }
