@@ -9,13 +9,12 @@ npm i --save vuejs-loading-plugin
 
 Set up
 ```javascript
-// main.js
 import VueLoading from 'vuejs-loading-plugin'
 
 // using default options
 Vue.use(VueLoading)
 
-// using options
+// overwrite defaults
 Vue.use(VueLoading, {
   dark: true, // default false
   text: 'Ladataan', // default 'Loading'
