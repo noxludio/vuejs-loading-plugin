@@ -1,0 +1,11 @@
+{
+  "name": "vuejs-loading-plugin",
+  "version": "1.0.0",
+  "description": "Simple loading screen plugin for your Vue application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atte Vähäkangas",
+  "license": "ISC"
+}
