@@ -8,6 +8,7 @@ export default {
       data: opts
     }).$mount()   
     document.body.appendChild(vm.$el)
+    Vue.prototype.$loading = ( loading ) => vm.loading = loading
   }
 }
 export const asyncLoading = function(fn){
