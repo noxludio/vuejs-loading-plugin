@@ -1,6 +1,6 @@
 {
   "name": "vuejs-loading-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple loading screen plugin for your Vue application",
   "github":"https://github.com/noxludio/vuejs-loading-plugin",
   "main": "index.js",
