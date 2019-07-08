@@ -44,9 +44,8 @@ export default {
   width: 50px;
   height: 50px;
   border-radius: 100%;
-  border: 2px solid #ababab;
-  border-right-color: transparent;
-  border-bottom-color: transparent;
+  border: 2px solid transparent;
+  border-left-color: #ababab;
   animation: circleanimation .45s linear infinite
 }
 .loading-text {
