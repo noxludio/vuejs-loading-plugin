@@ -18,6 +18,7 @@ Vue.use(VueLoading)
 Vue.use(VueLoading, {
   dark: true, // default false
   text: 'Ladataan', // default 'Loading'
+  loading: true, // default false
   customLoader: myVueComponent, // replaces the spinner and text with your own
   background: 'rgb(255,255,255)', // provice custom background
   classes: ['myclass'] // Array, object or string
