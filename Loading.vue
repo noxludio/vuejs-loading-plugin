@@ -52,6 +52,7 @@ export default {
   margin-top: 15px;
   color: #808080;
   font-size: 12px;
+  text-align: center;
 }
 @keyframes circleanimation {
   from {
